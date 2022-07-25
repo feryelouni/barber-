@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\task3"
+		},
+		{
+			"path": "..\\seance6"
+		},
+		{
+			"path": "..\\SEANCE 3"
+		},
+		{
+			"path": "..\\seance7"
+		},
+		{
+			"path": "..\\seance8"
+		},
+		{
+			"path": "..\\task2\\css"
+		},
+		{
+			"path": "..\\task2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "seance6"
+	}
+}
